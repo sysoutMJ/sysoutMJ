@@ -1,4 +1,7 @@
-## Hi there 👋
+## Mabuhay! 👋
+
+I'm Marcus, an software engineer based in Philippines.
+
 
 <!--
 **sysoutMJ/sysoutMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
